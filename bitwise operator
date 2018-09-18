@@ -1,0 +1,12 @@
+l202@soetcse:~/swati$ python
+Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
+[GCC 7.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 3|4
+7
+>>> 3&2
+2
+>>> 3|2
+3
+>>> exit()
+
