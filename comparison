@@ -1,0 +1,11 @@
+dl202@soetcse:~/swati$ python3 comparison.py
+enter the value of a:21
+enter the value of b:32
+enter the value of c:50
+50 is greatest
+dl202@soetcse:~/swati$ python3 comparison.py
+enter the value of a:52
+enter the value of b:25
+enter the value of c:90
+90 is greatest
+

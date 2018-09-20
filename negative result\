@@ -1,0 +1,7 @@
+dl202@soetcse:~/swati$ python3 negative.py
+enter the value of a12
+12 is positive
+dl202@soetcse:~/swati$ python3 negative.py
+enter the value of a-4
+-4 is negative
+

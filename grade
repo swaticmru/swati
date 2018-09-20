@@ -1,0 +1,19 @@
+dl202@soetcse:~/swati$ python3 grade.py
+enter the marks obtained63
+Grade is B
+dl202@soetcse:~/swati$ python3 grade.py
+enter the marks obtained85
+Grade is A
+dl202@soetcse:~/swati$ python3 grade.py
+enter the marks obtained30
+Fail
+dl202@soetcse:~/swati$ python3 grade.py
+enter the marks obtained96
+Grade is A+
+dl202@soetcse:~/swati$ python3 grade.py
+enter the marks obtained75
+Grade is B+
+dl202@soetcse:~/swati$ python3 grade.py
+enter the marks obtained55
+Grade is C
+
