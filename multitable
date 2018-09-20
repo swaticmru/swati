@@ -1,0 +1,25 @@
+python3 multitable.py
+enter the value of a21
+21 X 1 = 21
+21 X 2 = 42
+21 X 3 = 63
+21 X 4 = 84
+21 X 5 = 105
+21 X 6 = 126
+21 X 7 = 147
+21 X 8 = 168
+21 X 9 = 189
+21 X 10 = 210
+python3 multitable.py
+enter the value of a50
+50 X 1 = 50
+50 X 2 = 100
+50 X 3 = 150
+50 X 4 = 200
+50 X 5 = 250
+50 X 6 = 300
+50 X 7 = 350
+50 X 8 = 400
+50 X 9 = 450
+50 X 10 = 500
+
