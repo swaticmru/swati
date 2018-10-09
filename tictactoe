@@ -1,0 +1,74 @@
+------------
+| 1 | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+choose an available place :1
+player 1 >>
+-------------
+| X | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+choose an available place :2
+player 2 >>
+-------------
+| X | O | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+choose an available place :3
+player 1 >>
+-------------
+| X | O | X |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+choose an available place :4
+player 2 >>
+-------------
+| X | O | X |
+-------------
+| O | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+choose an available place :5
+player 1 >>
+-------------
+| X | O | X |
+-------------
+| O | X | 6 |
+-------------
+| 7 | 8 | 9 |
+choose an available place :6
+player 2 >>
+-------------
+| X | O | X |
+-------------
+| O | X | O |
+-------------
+| 7 | 8 | 9 |
+choose an available place :8
+player 1 >>
+-------------
+| X | O | X |
+-------------
+| O | X | O |
+-------------
+| 7 | X | 9 |
+choose an available place :7
+player 2 >>
+-------------
+| X | O | X |
+-------------
+| O | X | O |
+-------------
+| O | X | 9 |
+choose an available place :9
+player 1 >>
+game over
+
