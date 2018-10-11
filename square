@@ -1,0 +1,21 @@
+python3 square.py
+enter a number of your choice:5
+enter the second choice:5
+choose the operation +,-,/,*,****
+3125.0
+dl202@soetcse:~/swati$ python3 square.py
+enter a number of your choice:5
+enter the second choice:6
+choose the operation +,-,/,*,***
+30.0
+dl202@soetcse:~/swati$ python3 square.py
+enter a number of your choice:6
+enter the second choice:4
+choose the operation +,-,/,*,**-
+2.0
+dl202@soetcse:~/swati$ python3 square.py
+enter a number of your choice:6
+enter the second choice:4
+choose the operation +,-,/,*,**+
+10.0
+
